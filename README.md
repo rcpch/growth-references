@@ -20,14 +20,14 @@ Along with the data file, we request the following:
 ***Current contents:***
 |    | Reference | Date Published | Journal Reference | Author | Age Range | Acknowledgement Text | File name | Country | Description |
 |----|-----------|----------------|-------------------|--------|-----------|----------------------|-----------|:-------: |------------|
-| 1. | UK90 | N/A | N/A | N/A | 37-42 weeks | 'UK 1990 reference data, reanalysed 2009' | (UKbw90term.xls)[] | :gb: | [description](#1)
-| 2. | UK90 | N/A | N/A | N/A | 23-43 weeks | 'UK 1990 reference data, reanalysed 2009' | (UKbw90.xls)[] | :gb: | [description](#2)
-| 3. | UK-WHO | N/A | N/A | N/A | 2 weeks to 4y | 'WHO Child Growth Standards' | (UK_WHO.xls)[] | :gb: | [description](#3)
-| 4. | UK-WHO | N/A | N/A | N/A | 23 weeks to 20y | 'WHO Child Growth Standards' | (UK_WHO_0_20_preterm.xls)[] |  :gb: | [description](#4)
-| 5. | UK-WHO | N/A | N/A | N/A | 0-20y weeks | 'WHO Child Growth Standards' | (UK_WHO_0_20_term.xls)[] | :gb: |[description](#5)
-| 6. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | (WHO2006.xls)[] | :united_nations: |[description](#6)
-| 7. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | (WHO2007.xls)[] | :united_nations: |[description](#7)
-| 8. | USA | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | (USCDC2000.xls)[] | :us: |[description](#8)
+| 1. | UK90 | N/A | N/A | N/A | 37-42 weeks | 'UK 1990 reference data, reanalysed 2009' | [UKbw90term.xls](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/UK90bwterm.xls) | :gb: | [description](#1)
+| 2. | UK90 | N/A | N/A | N/A | 23-43 weeks | 'UK 1990 reference data, reanalysed 2009' | [UKbw90.xls](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/UK90bw.xls) | :gb: | [description](#2)
+| 3. | UK-WHO | N/A | N/A | N/A | 2 weeks to 4y | 'WHO Child Growth Standards' | [UK_WHO.xls](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/UK_WHO.xls) | :gb: | [description](#3)
+| 4. | UK-WHO | N/A | N/A | N/A | 23 weeks to 20y | 'WHO Child Growth Standards' | [UK_WHO_0_20_preterm.xlsx](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/UK_WHO_0_20_preterm.xlsx) |  :gb: | [description](#4)
+| 5. | UK-WHO | N/A | N/A | N/A | 0-20y weeks | 'WHO Child Growth Standards' | [UK_WHO_0_20_term.xls](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/UK_WHO_term.xls) | :gb: |[description](#5)
+| 6. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [WHO2006.xls](https://github.com/rcpch/growth-references/blob/main/WHO_references/WHO2006.xls) | :united_nations: |[description](#6)
+| 7. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [WHO2007.xls](https://github.com/rcpch/growth-references/blob/main/WHO_references/WHO2007.xls) | :united_nations: |[description](#7)
+| 8. | USA | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [USCDC2000.xls](https://github.com/rcpch/growth-references/blob/main/USA_references/USCDC2000.xls) | :us: |[description](#8)
 
 
 
