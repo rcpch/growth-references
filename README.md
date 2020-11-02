@@ -28,6 +28,8 @@ Along with the data file, we request the following:
 | 6. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [WHO2006.xls](https://github.com/rcpch/growth-references/blob/main/WHO_references/WHO2006.xls) | :united_nations: |[description](#6)
 | 7. | WHO | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [WHO2007.xls](https://github.com/rcpch/growth-references/blob/main/WHO_references/WHO2007.xls) | :united_nations: |[description](#7)
 | 8. | USA | N/A | N/A | N/A | N/A | 'WHO Child Growth Standards' | [USCDC2000.xls](https://github.com/rcpch/growth-references/blob/main/USA_references/USCDC2000.xls) | :us: |[description](#8)
+| 9. | UK | N/A | N/A | N/A | N/A | 'Trisomy 21 Growth Standards 2002' | [LMS_Downs.xlsx](https://github.com/rcpch/growth-references/tree/main/UK_references/growth/specialist_references/LMS_Downs.xlsx) | :uk: :ireland: |[description](#9)
+| 10. | UK | N/A | N/A | N/A | N/A | 'Turner Syndrome, Heights 2002' | [Turner_syndrome_LMS_Lyon.xlsx](https://github.com/rcpch/growth-references/blob/main/UK_references/growth/specialist_references/Turner_syndrome_LMS_Lyon.xlsx) | :uk: :ireland: |[description](#10)
 
 
 
@@ -41,3 +43,5 @@ Along with the data file, we request the following:
 2. Cole TJ, Freeman JV, Preece MA. 1998. British 1990 growth reference centiles for weight, height, body mass index and head circumference fitted by maximum penalized likelihood. Stat Med 17(4):407-29
 3. WHO Multicentre Growth Reference Study Group. WHO Child Growth Standards: Length/Height-for-age, Weight-for-age, Weight-for-length, Weight-for-height and Body Mass Index-for age. Methods and Development. 2006. ISBN924154693X.
 4. WHO Multicentre Growth Reference Study Group. WHO Child Growth Standards: Head circumference-for-age, arm circumference-for-age, triceps skinfold-for-age and subscapular skinfold-for age. Methods and Development. 2007. ISBN 978 92 4 1547185.
+9. Down's syndrome centiles - Styles ME, Cole TJ, Dennis J, Preece MA. New cross sectional stature, weight and head circumference references for Down’s syndrome in the UK and Republic of Ireland. Arch Dis Child 2002;87:104-8.BMI centiles added 11/11/2013
+10. Lyon, Preece and Grant (1985)
