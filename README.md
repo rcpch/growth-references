@@ -2,12 +2,13 @@
 
 A repository for all Growth References, internationally. We are working on a standardised serialisation format for growth references.
 
-The UK references are only useable under MRC license.
-The WHO or CDC data are freely available and open source
+The UK references are only useable under MRC license. The WHO or CDC data are freely available open data.
 
-This is not an exhaustive list but the aim is to be a repository for all references, not only growth but all biological charts.
+This is not an exhaustive list but the aim is to be a repository for all LMS references, not only for growth but for all other physiological parameters.
 
-We welcome submissions to the repository to build the collection - please send pull requests.
+We welcome submissions to the repository to build the collection - please send pull requests or contact us on growth.digital@rcpch.ac.uk.
+
+We are working on a 'standard format' of JSON that will contain reference metadata as well as the LMS tables themselves, in a 'key-value' format that makes programmatic lookups safe and reliable.
 
 Along with the data file, we request the following:
 
