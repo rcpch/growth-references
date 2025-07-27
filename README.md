@@ -11,6 +11,9 @@ References include
 * Trisomy-21 (AAP - US)
 * Turner
 
+Also includes the Bayley-Pinneau data
+Note this has been transcribed from the paper by hand and is not tested
+
 Documentation for this repository is in the main documentation site at
 [https://growth.rcpch.ac.uk/digital-growth-charts-documentation/clinical/growth-references/](https://growth.rcpch.ac.uk/clinician/growth-references/)
 
