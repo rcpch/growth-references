@@ -2,7 +2,7 @@
 
 A repository for all Growth References, internationally. The UK references are only useable under MRC license. The WHO or CDC data are freely available open data.
 
-References include
+## References
 
 * UK-WHO (includes UK90 preterm reference)
 * WHO
@@ -11,8 +11,16 @@ References include
 * Trisomy-21 (AAP - US)
 * Turner
 
-Also includes the Bayley-Pinneau data
-Note this has been transcribed from the paper by hand and is not tested
+## Other Resources
+
+Bone age reference data for the Tanner-Whitehouse method
+Final height calculation tables and papers (for the methodology) for:
+
+* Bayley-Pinneau
+* Roche-Wainer-Thissen (original and revised)
+* Tanner-Whitehouse (III)
+
+## Documentation
 
 Documentation for this repository is in the main documentation site at
 [https://growth.rcpch.ac.uk/digital-growth-charts-documentation/clinical/growth-references/](https://growth.rcpch.ac.uk/clinician/growth-references/)
