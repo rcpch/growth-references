@@ -13,8 +13,8 @@ A repository for all Growth References, internationally. The UK references are o
 
 ## Other Resources
 
-Bone age reference data for the Tanner-Whitehouse method
-Final height calculation tables and papers (for the methodology) for:
+1. Bone age reference data for the Tanner-Whitehouse method
+2. Final height calculation tables and papers (for the methodology) for:
 
 * Bayley-Pinneau
 * Roche-Wainer-Thissen (original and revised)
