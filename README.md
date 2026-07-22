@@ -1,20 +1,33 @@
 # Growth References
 
-A repository for all Growth References, internationally. The UK references are only useable under MRC license. The WHO or CDC data are freely available open data.
+This repository preserves growth-reference datasets and supporting publications used by RCPCH Digital Growth Charts. It is a source-data library, not a clinical calculation service, clinical decision-support tool, or substitute for clinical judgement.
 
-References include
+## Included References
 
-* UK-WHO (includes UK90 preterm reference)
-* WHO
-* CDC (Includes extended BMI 2022)
-* Trisomy-21 (UK)
-* Trisomy-21 (AAP - US)
-* Turner
+- UK-WHO, including the UK90 preterm reference
+- WHO
+- CDC, including extended BMI data
+- Trisomy 21 references for the UK and United States
+- Turner syndrome
+- Bayley-Pinneau predicted adult-height tables
+- Spirometry
 
-Also includes the Bayley-Pinneau data
-Note this has been transcribed from the paper by hand and is not tested
+## Data Quality And Provenance
 
-Documentation for this repository is in the main documentation site at
-[https://growth.rcpch.ac.uk/digital-growth-charts-documentation/clinical/growth-references/](https://growth.rcpch.ac.uk/clinician/growth-references/)
+Each dataset remains subject to its original source, terms, and licensing restrictions. In particular, the UK references are available only under their applicable MRC licence, while WHO and CDC data are published as open data. Do not redistribute or reuse data beyond the permissions granted by the relevant source.
 
-Documentation relating to the LMS method, methodology and calculation is [here](https://growth.rcpch.ac.uk/clinician/how-the-api-works/)
+The Bayley-Pinneau data were transcribed manually from the accompanying publication and have not been independently validated in this repository. Validate them independently before any clinical use.
+
+For changes to reference data, record the source, licence, source version or publication, transformation, and validation evidence in the same change. See [SAFETY.md](SAFETY.md) for the clinical-use boundary and change controls.
+
+## Documentation
+
+Growth-reference documentation is available at [growth.rcpch.ac.uk](https://growth.rcpch.ac.uk/clinician/growth-references/). Documentation about LMS methodology and calculations is available at [How the API works](https://growth.rcpch.ac.uk/clinician/how-the-api-works/).
+
+## Contributing
+
+Read [AGENTS.md](AGENTS.md) and [SAFETY.md](SAFETY.md) before proposing a data change. Do not replace or alter source data without provenance and independent validation evidence.
+
+## Licence
+
+Repository-authored material is licensed under the [MIT License](LICENSE). Individual datasets and publications may have different licences or usage restrictions that take precedence; preserve their provenance and comply with their terms.
