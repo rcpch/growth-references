@@ -1,5 +1,5 @@
 # Security Policy
 
-Please report suspected security vulnerabilities privately to the RCPCH Digital Growth Charts maintainers rather than opening a public issue. Include enough detail to reproduce the concern without publishing credentials, personal data, or exploit instructions.
+Please report suspected security vulnerabilities privately to the RCPCH Incubator team at [incubator@rcpch.ac.uk](mailto:incubator@rcpch.ac.uk) rather than opening a public issue. Include enough detail to reproduce the concern without publishing credentials, personal data, or exploit instructions.
 
-This repository should contain only public reference data and publications. If you identify patient-identifiable data, credentials, or restricted content, report it privately and do not redistribute it.
+This repository contains no executable service and has a limited conventional security surface. Plausible concerns include patient-identifiable data, credentials, malicious files, or material distributed contrary to its licence. Report such concerns privately and do not redistribute the affected material.

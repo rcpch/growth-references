@@ -18,8 +18,10 @@ Changes to reference data require documented provenance, applicable licence, sou
 
 ## Medical-Device Applicability
 
-This repository is not a medical device and does not provide a user-facing clinical function. Downstream Digital Growth Charts products determine their own medical-device applicability and clinical-safety obligations. Reassess this conclusion if this repository gains calculation, interpretation, or end-user functionality.
+On 2026-09-06, the team's Clinical Safety Officer and medical-device expert determined that this repository is an informational collection, not clinical software and not a medical device. It has no calculation, interpretation, decision-support, or end-user clinical function. DCB0129 and medical-device regulation therefore do not apply. This determination is based on the repository's stated purpose and current contents and must be reassessed if it gains calculation, interpretation, executable clinical behaviour, or end-user functionality.
+
+Medical-device classification and clinical-risk management are separate assessments. Neither is transferred from this repository to downstream software. Downstream Digital Growth Charts products determine their own medical-device applicability and clinical-safety obligations.
 
 ## Responsible Role
 
-The RCPCH Digital Growth Charts technical and clinical governance leads are responsible for reviewing safety-relevant data changes.
+The RCPCH Digital Growth Charts Clinical Safety Officer and technical and clinical governance leads are responsible for reviewing changes that could alter this boundary.

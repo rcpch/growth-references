@@ -1,17 +1,16 @@
-# macOS Finder metadata
+# Editor / OS
 .DS_Store
-
-# Python tooling
-__pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.coverage
-htmlcov/
-.venv/
-venv/
-
-# Local environment and editor files
-.env
 .idea/
 .vscode/
+
+# Agent tooling
+.claude/
+.private/
+.playwright/
+.playwright-mcp/
+blob-report/
+playwright-report/
+test-results/
+
+# Local environment
+.env
