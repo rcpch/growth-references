@@ -20,6 +20,9 @@ A repository for all Growth References, internationally. The UK references are o
 * Roche-Wainer-Thissen (original and revised)
 * Tanner-Whitehouse (III)
 
+3. UK Blood pressure centiles (Lisa V Jackson Nandu K S Thalange Tim J Cole
+Archives of Disease in Childhood 2006; 92 298-303 Published Online First: 11 Aug 2006. doi: 10.1136/adc.2005.081216)
+
 ## Documentation
 
 Documentation for this repository is in the main documentation site at
