@@ -128,3 +128,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+	# Editor / OS
+	.idea/
+	.vscode/
+	
+	# Agent tooling
+	.claude/
+	.private/
+	.playwright/
+	.playwright-mcp/
+	blob-report/
+	playwright-report/
+	test-results/
+	
+	# Local environment
+	.env
