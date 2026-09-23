@@ -21,6 +21,9 @@ This repository preserves growth-reference datasets and supporting publications 
 * Roche-Wainer-Thissen (original and revised)
 * Tanner-Whitehouse (III)
 
+3. UK Blood pressure centiles (Lisa V Jackson Nandu K S Thalange Tim J Cole
+Archives of Disease in Childhood 2006; 92 298-303 Published Online First: 11 Aug 2006. doi: 10.1136/adc.2005.081216)
+
 ## Documentation
 
 Each dataset remains subject to its original source, terms, and licensing restrictions. In particular, the UK references are available only under their applicable MRC licence, while WHO and CDC data are published as open data. Do not redistribute or reuse data beyond the permissions granted by the relevant source.
