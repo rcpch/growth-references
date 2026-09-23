@@ -12,7 +12,16 @@ This repository preserves growth-reference datasets and supporting publications 
 - Bayley-Pinneau predicted adult-height tables
 - Spirometry
 
-## Data Quality And Provenance
+## Other Resources
+
+1. Bone age reference data for the Tanner-Whitehouse method
+2. Final height calculation tables and papers (for the methodology) for:
+
+* Bayley-Pinneau
+* Roche-Wainer-Thissen (original and revised)
+* Tanner-Whitehouse (III)
+
+## Documentation
 
 Each dataset remains subject to its original source, terms, and licensing restrictions. In particular, the UK references are available only under their applicable MRC licence, while WHO and CDC data are published as open data. Do not redistribute or reuse data beyond the permissions granted by the relevant source.
 
